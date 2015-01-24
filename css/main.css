@@ -33,6 +33,11 @@ h2 {
     color: #3498db;
 }
 
+.logotype-dot {
+    margin-left: -0.1em;
+    margin-right: -0.05em;
+}
+
 @media screen and (max-width: 620px) {
     body {
         font-size: 75%;
